@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "148865850063",
+    "project_id": "authuser-6dec7",
+    "storage_bucket": "authuser-6dec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148865850063:android:9a5e3ae68fa076b89cb5ba",
+        "android_client_info": {
+          "package_name": "com.my_org.dashboard_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148865850063-qqis575skdc3h36kqoud06p0l8ccec3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlQ9Xrjl-k6A_VvMbVwBT7Re8mDi-Ycb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148865850063-qqis575skdc3h36kqoud06p0l8ccec3f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148865850063-cjbvo2j45d93g06q5gqa3ulqs3cer0gf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myorg.dashboardLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
